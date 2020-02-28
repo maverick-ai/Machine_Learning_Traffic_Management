@@ -33,7 +33,7 @@ while(True):
             if count==4 and q==0:
                 is_lane[prior[i][1]]=0
                 not_executing=prior[i][1]
-            elif count==3 and q==0:
+            elif count==3 and q!=0:
                 is_lane[prior[i][1]]=0
                 not_executing=prior[i][1]
     for i in range(4):
