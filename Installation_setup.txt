@@ -1,0 +1,9 @@
+Installation Instruction:-
+1.Download and install Python 3 from official Python Language website
+2.Install the following dependencies 
+3.pip3 install TensorFlow
+4.pip3 install opencv-python
+5.pip3 install keras
+6.pip3 install imageai --upgrade
+7.Add yolo.h5 in current working directory
+8.Run the Python Code.
